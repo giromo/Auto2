@@ -1,0 +1,63 @@
+name: Speed Test
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */2 * * *"
+jobs:
+  main:
+    name: SpeedTest
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Create directories
+        run: mkdir -p logs sub/splitted utils/speedtest
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+      - name: Run PHP processor
+        run: php Files/process_configs.php > logs/php_run.log 2>&1 || echo "PHP processor failed, check logs/php_run.log"
+      - name: Check PHP output
+        run: |
+          if [ -z "$(ls -A configs/)" ]; then
+            echo "Error: No files generated in configs/, check logs/php_run.log"
+            cat logs/php_run.log
+            exit 1
+          fi
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone 'Asia/Tehran'
+      - name: Install cython
+        run: pip install cython
+      - name: Install Requirements
+        run: |
+          pip install speedtest-cli
+          pip install -r ./utils/requirements.txt > logs/pip_install.log 2>&1 || echo "Failed to install requirements, check logs/pip_install.log"
+      - name: Run Lite Speedtest
+        run: |
+          sh ./utils/speedtest/speedtest2.sh > logs/speedtest_run.log 2>&1 || echo "Speedtest failed, check logs/speedtest_run.log"
+          python ./utils/speedtest/output.py > logs/output_py.log 2>&1 || echo "Python processor failed, check logs/output_py.log"
+      - name: Check Speedtest output
+        run: |
+          if [ ! -f utils/speedtest/out.json ]; then
+            echo "Error: out.json not generated, check logs/speedtest_run.log"
+            cat logs/speedtest_run.log
+            exit 1
+          fi
+          if [ -z "$(ls -A sub/splitted/)" ]; then
+            echo "Error: No files generated in sub/splitted/, check logs/output_py.log"
+            cat logs/output_py.log
+            exit 1
+          fi
+      - name: Commit Changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add Allconfig Base64.txt V2.txt ./sub/sub_merge.txt ./sub/sub_merge_base64.txt LogInfo.txt ./sub/splitted/* ./utils/speedtest/out.json ./logs/* || true
+          git commit -m "🩻 $(date '+%Y-%m-%d %H:%M:%S') Speed Test" || echo "No changes to commit"
+          git pull origin main --rebase
+          git push origin main
