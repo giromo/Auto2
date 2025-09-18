@@ -32,7 +32,7 @@ fi
 
 # اجرای LiteSpeedTest با محدودیت زمانی افزایش‌یافته
 chmod +x utils/speedtest/lite-linux-amd64
-timeout 600 utils/speedtest/lite-linux-amd64 --config utils/speedtest/lite_config.json --test ./bulk/merge3.txt > utils/speedtest/speedtest_output.log 2>&1
+timeout 900 utils/speedtest/lite-linux-amd64 --config utils/speedtest/lite_config.json --test ./bulk/merge3.txt > utils/speedtest/speedtest_output.log 2>&1
 if [ $? -ne 0 ]; then
     echo "Error: LiteSpeedTest failed to run, check utils/speedtest/speedtest_output.log" >> logs/speedtest_error.log
     exit 1
