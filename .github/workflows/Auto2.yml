@@ -14,9 +14,9 @@ jobs:
     - name: Set up PHP
       uses: shivammathur/setup-php@v2
       with:
-        php-version: '8.0'
+        php-version: '8.2' # آپدیت به PHP 8.2 برای عملکرد بهتر
     - name: Run PHP processor
-      run: php Files/vmess_processor.php > logs/php_run.log 2>&1
+      run: php Files/process_configs.php > logs/php_run.log 2>&1
     - name: Set up Go
       uses: actions/setup-go@v5
       with:
@@ -32,34 +32,41 @@ jobs:
       run: |
         mkdir -p bulk
         mv Files/vmess_iran.txt bulk/ || echo "vmess_iran.txt not found"
-        mv Files/trojan_iran.txt bulk/ || echo "trojan_iran.txt not found"
         mv Files/vless_iran.txt bulk/ || echo "vless_iran.txt not found"
+        mv Files/trojan_iran.txt bulk/ || echo "trojan_iran.txt not found"
         mv Files/ss_iran.txt bulk/ || echo "ss_iran.txt not found"
+        mv Files/ssr_iran.txt bulk/ || echo "ssr_iran.txt not found"
+        mv Files/tuic_iran.txt bulk/ || echo "tuic_iran.txt not found"
+        mv Files/hysteria2_iran.txt bulk/ || echo "hysteria2_iran.txt not found"
+        mv Files/wireguard_iran.txt bulk/ || echo "wireguard_iran.txt not found"
         mv Files/mixed_iran.txt bulk/ || echo "mixed_iran.txt not found"
         mv Files/vmessclean.txt bulk/ || echo "vmessclean.txt not found"
     - name: Create merge1.txt
       run: |
-        cat ./bulk/ss_iran.txt ./bulk/trojan_iran.txt > ./bulk/merge1.txt || echo "Failed to create merge1.txt"
-        sed -i '/^\(ss:\/\/\|trojan:\/\/\)/!d' ./bulk/merge1.txt
+        cat ./bulk/ss_iran.txt ./bulk/ssr_iran.txt ./bulk/trojan_iran.txt > ./bulk/merge1.txt || echo "Failed to create merge1.txt"
+        sed -i '/^\(ss:\/\/\|shadowsocks:\/\/\|ssr:\/\/\|trojan:\/\/\)/!d' ./bulk/merge1.txt
     - name: Create merge2.txt
       run: |
-        cat ./bulk/vmess_iran.txt ./bulk/vless_iran.txt > ./bulk/merge2.txt || echo "Failed to create merge2.txt"
-        sed -i '/^\(vmess:\/\/\|vless:\/\/\)/!d' ./bulk/merge2.txt
+        cat ./bulk/vmess_iran.txt ./bulk/vless_iran.txt ./bulk/tuic_iran.txt ./bulk/hysteria2_iran.txt ./bulk/wireguard_iran.txt > ./bulk/merge2.txt || echo "Failed to create merge2.txt"
+        sed -i '/^\(vmess:\/\/\|vless:\/\/\|tuic:\/\/\|tuic5:\/\/\|hy2:\/\/\|hysteria2:\/\/\|wireguard:\/\/\)/!d' ./bulk/merge2.txt
     - name: Create merge3.txt
       run: |
-        cat ./bulk/vmess_iran.txt ./bulk/ss_iran.txt ./bulk/trojan_iran.txt > ./bulk/merge3.txt || echo "Failed to create merge3.txt"
-        sed -i '/^\(ss:\/\/\|trojan:\/\/\)/!d' ./bulk/merge3.txt
+        cat ./bulk/vmess_iran.txt ./bulk/vless_iran.txt ./bulk/trojan_iran.txt ./bulk/ss_iran.txt ./bulk/ssr_iran.txt ./bulk/tuic_iran.txt ./bulk/hysteria2_iran.txt ./bulk/wireguard_iran.txt > ./bulk/merge3.txt || echo "Failed to create merge3.txt"
+        sed -i '/^\(vmess:\/\/\|vless:\/\/\|trojan:\/\/\|ss:\/\/\|shadowsocks:\/\/\|ssr:\/\/\|tuic:\/\/\|tuic5:\/\/\|hy2:\/\/\|hysteria2:\/\/\|wireguard:\/\/\)/!d' ./bulk/merge3.txt
     - name: Convert merge1.txt to base64
       run: |
         base64 ./bulk/merge1.txt > ./bulk/b64_merge1.txt || echo "Failed to convert merge1.txt"
     - name: Convert merge2.txt to base64
       run: |
         base64 ./bulk/merge2.txt > ./bulk/b64_merge2.txt || echo "Failed to convert merge2.txt"
+    - name: Convert merge3.txt to base64
+      run: |
+        base64 ./bulk/merge3.txt > ./bulk/b64_merge3.txt || echo "Failed to convert merge3.txt"
     - name: Commit Changes
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
-        git add ./bulk/*
+        git add ./bulk/* ./configs/* ./logs/*
         git commit -m "☠️ $(date '+%Y-%m-%d %H:%M:%S') Collected" || echo "No changes to commit"
         git pull origin main --rebase
         git push origin main
