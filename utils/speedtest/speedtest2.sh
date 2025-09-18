@@ -25,25 +25,26 @@ if [ $? -ne 0 ]; then
 fi
 
 # بررسی وجود فایل merge3.txt
-if [ ! -f "./bulk/merge3.txt" ]; then
-    echo "Error: merge3.txt not found" >> logs/speedtest_error.log
+if [ ! -f "./bulk/merge3.txt" ] || [ ! -s "./bulk/merge3.txt" ]; then
+    echo "Error: merge3.txt not found or empty" >> logs/speedtest_error.log
     exit 1
 fi
 
-# اجرای LiteSpeedTest با محدودیت زمانی
+# اجرای LiteSpeedTest با محدودیت زمانی افزایش‌یافته
 chmod +x utils/speedtest/lite-linux-amd64
-timeout 300 utils/speedtest/lite-linux-amd64 --config utils/speedtest/lite_config.json --test ./bulk/merge3.txt > utils/speedtest/speedtest_output.log 2>&1
+timeout 600 utils/speedtest/lite-linux-amd64 --config utils/speedtest/lite_config.json --test ./bulk/merge3.txt > utils/speedtest/speedtest_output.log 2>&1
 if [ $? -ne 0 ]; then
-    echo "Error: LiteSpeedTest failed to run" >> logs/speedtest_error.log
+    echo "Error: LiteSpeedTest failed to run, check utils/speedtest/speedtest_output.log" >> logs/speedtest_error.log
     exit 1
 fi
 
-# انتقال out.json (در صورت تولید در ریشه)
+# انتقال out.json
 if [ -f out.json ]; then
     mv out.json utils/speedtest/out.json
     echo "Success: out.json moved to utils/speedtest/" >> logs/speedtest_success.log
 else
-    echo "Warning: out.json not found in root" >> logs/speedtest_error.log
+    echo "Error: out.json not found in root" >> logs/speedtest_error.log
+    exit 1
 fi
 
 # لاگ موفقیت
