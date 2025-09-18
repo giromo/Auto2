@@ -3,7 +3,7 @@
     "speedtestMode": "all",
     "pingMethod": "tcpping",
     "sortMethod": "rspeed",
-    "concurrency": 10,
+    "concurrency": 5,
     "testMode": 2,
     "subscription": "https://raw.githubusercontent.com/giromo/Auto2/main/bulk/merge3.txt",
     "timeout": 15,
