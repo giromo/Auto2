@@ -11,7 +11,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
       - name: Create directories
-        run: mkdir -p logs sub/splitted utils/speedtest
+        run: mkdir -p logs sub/splitted utils/speedtest configs bulk
       - name: Set up PHP
         uses: shivammathur/setup-php@v2
         with:
@@ -23,6 +23,17 @@ jobs:
           if [ -z "$(ls -A configs/)" ]; then
             echo "Error: No files generated in configs/, check logs/php_run.log"
             cat logs/php_run.log
+            exit 1
+          fi
+      - name: Create merge3.txt from configs
+        run: |
+          cat ./configs/vmess.txt ./configs/vless.txt ./configs/trojan.txt ./configs/shadowsocks.txt ./configs/shadowsocksr.txt ./configs/tuic.txt ./configs/hysteria2.txt ./configs/wireguard.txt > ./bulk/merge3.txt || echo "Failed to create merge3.txt"
+          sed -i '/^\(vmess:\/\/\|vless:\/\/\|trojan:\/\/\|ss:\/\/\|shadowsocks:\/\/\|ssr:\/\/\|tuic:\/\/\|tuic5:\/\/\|hy2:\/\/\|hysteria2:\/\/\|wireguard:\/\/\)/!d' ./bulk/merge3.txt || true
+      - name: Check merge3.txt
+        run: |
+          if [ ! -f ./bulk/merge3.txt ] || [ ! -s ./bulk/merge3.txt ]; then
+            echo "Error: merge3.txt not found or empty, check configs/*.txt"
+            ls -l configs/
             exit 1
           fi
       - name: Set up Python
@@ -57,7 +68,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add Allconfig Base64.txt V2.txt ./sub/sub_merge.txt ./sub/sub_merge_base64.txt LogInfo.txt ./sub/splitted/* ./utils/speedtest/out.json ./logs/* || true
-          git commit -m "🩻 $(date '+%Y-%m-%d %H:%M:%S') Speed Test" || echo "No changes to commit"
+          git add Allconfig Base64.txt V2.txt ./sub/sub_merge.txt ./sub/sub_merge_base64.txt LogInfo.txt ./sub/splitted/* ./utils/speedtest/out.json ./logs/* ./bulk/merge3.txt || true
+          git commit -m "🔗 $(date '+%Y-%m-%d %H:%M:%S') Speed Test" || echo "No changes to commit"
           git pull origin main --rebase
           git push origin main
