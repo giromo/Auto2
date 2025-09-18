@@ -65,13 +65,10 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?sni=YAPC-
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee%20%231
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#💎کانفیگ
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#𝗝𝗼𝗶𝗻
-hysteria2://a16d62f6-048d-11f0-af5a-f23c93136cb3@b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk:1743?sni=b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk&insecure=0#US
 hysteria2://a59be66d-1e59-40ea-b378-ceecd80c3337@45.11.1.62:443?sni=www.microsoft.com&insecure=1#JP
 hysteria2://be81e21d-02d8-4a60-a07e-c2202a50a549@yjjdhl.yunjijd.xyz:26923?sni=yjjdhl.yunjijd.xyz&insecure=1#NL
 hysteria2://channel_dailyconfigs%3Aff0rY2oVM47dzLrxdYtnA46xDvfa8qde@2a0b:4140:b17f::2:443?insecure=1&obfs=salamander#NL
 hysteria2://channel_dailyconfigs%3Aff0rY2oVM47dzLrxdYtnA46xDvfa8qde@95.181.174.31:443?sni=slack.com&insecure=1&obfs=salamander#DE
-hysteria2://d5488371-4d89-4699-890f-7abeb28c4076@hsmg.huasuan666.top:22151?sni=hsmg.huasuan666.top&insecure=1#US
-hysteria2://de8854c7-fa17-4266-ae18-50a9732a0c4e@it1.1010991.xyz:3001?sni=it1.1010991.xyz&insecure=1#XX
 hysteria2://dongtaiwang.com@108.181.5.130:63015?sni=apple.com&insecure=1#US
 hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?sni=apple.com&insecure=1#FR
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=🔒
