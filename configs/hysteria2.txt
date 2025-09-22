@@ -11,6 +11,7 @@ hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?sni=p
 hysteria2://0a93714f-7944-4cb1-a955-c602db605e85@teq.dport.top:33658?sni=teq.dport.top&insecure=1&obfs=salamander#TR
 hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563?sni=h2.gzcloud.shop&insecure=1&obfs=salamander#HK
 hysteria2://20050105zhu@204.44.110.129:51541?security=tls&insecure=1&sni=www.bing.com#Join%20Telegram%20%F0%9F%86%94%EF%B8%8F%40ibahad%20%F0%9F%87%BA%F0%9F%87%B2
+hysteria2://20050105zhu@204.44.110.129:51541?sni=www.bing.com&insecure=1#US
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:43429?sni=real.getafreenode.sbs&insecure=1#UA
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@d.eans.top:7009?security=tls&insecure=1&sni=d.eans.top#Join%20Telegram%20%F0%9F%86%94%EF%B8%8F%40ibahad%20%F0%9F%87%A9%F0%9F%87%AA```
 hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?sni=bing.com&insecure=1#SG
@@ -78,6 +79,7 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#𝗝𝗼𝗶𝗻
 hysteria2://a16d62f6-048d-11f0-af5a-f23c93136cb3@b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk:1743?sni=b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk&insecure=0#US
 hysteria2://a59be66d-1e59-40ea-b378-ceecd80c3337@45.11.1.62:443?sni=www.microsoft.com&insecure=1#JP
+hysteria2://bde0cf51-5bce-473a-8c7d-68949e7e5cfd@209.135.168.230:8080?sni=us4.youxuan.wiki&insecure=1#US
 hysteria2://be81e21d-02d8-4a60-a07e-c2202a50a549@yjjdhl.yunjijd.xyz:26923?sni=yjjdhl.yunjijd.xyz&insecure=1#NL
 hysteria2://channel_dailyconfigs%3Aff0rY2oVM47dzLrxdYtnA46xDvfa8qde@2a0b:4140:b17f::2:443?insecure=1&obfs=salamander#NL
 hysteria2://channel_dailyconfigs%3Aff0rY2oVM47dzLrxdYtnA46xDvfa8qde@95.181.174.31:443?sni=slack.com&insecure=1&obfs=salamander#DE
