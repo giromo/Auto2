@@ -36,7 +36,7 @@ hysteria2://6803bc9b-1157-431b-8f73-970a6deb741f@fra-nb-02.linlujs.pw:29854?inse
 hysteria2://6803bc9b-1157-431b-8f73-970a6deb741f@fra-nb-02.linlujs.pw:29854?security=tls&insecure=0#telegram-%40ISVvpn〰〰〰〰〰〰〰〰〰〰‼️نکته:
 hysteria2://682c7978-e3eb-44e0-924c-607144495681@fra-nb-01.linlujs.pw:24568?security=tls&insecure=0#telegram-%40ISVvpn〰〰〰〰〰〰〰〰〰〰‼️نکته:
 hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@fra-nb-01.linlujs.pw:24568?insecure=0#DE
-hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@fra-nb-01.linlujs.pw:24568?security=tls&insecure=0#DE-telegram-%40ISVvpn🌐
+hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@fra-nb-01.linlujs.pw:24568?security=tls&insecure=0#DE-telegram-%40ISVvpn
 hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@us-nb-01.linlujs.pw:25684?insecure=0#US
 hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@us-nb-01.linlujs.pw:25684?security=tls&insecure=0#usa-telegram-%40ISVvpn〰〰〰〰〰〰〰〰〰〰‼️نکته:
 hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@us…
@@ -65,7 +65,6 @@ hysteria2://9f73c619627d6a5d@66.245.192.15:443?sni=www.apple.com&insecure=1&obfs
 hysteria2://Jjwvt9WrTp@91.107.150.208:443?sni=hacks.mozilla.org&insecure=1&obfs=salamander#DE
 hysteria2://KevinZakarian@kevin.serverv.net:8443?insecure=1&obfs=salamander#XX
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?sni=bing.com&insecure=1#HK
-hysteria2://QgvPzWgwOG@pouria.3dfigures.ir:53713?insecure=1&obfs=salamander#US
 hysteria2://TELEGRAM-ID-mrknowsit.TELEGRAM-ID-mrknowsit@repuestoslibertad.cl.repuestoslibertad.cl:2084?security=tls&obfs=salamander&obfs-password=ed5s8665dsss&insecure=0#TELEGRAM-ID-free_vpv0088```
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL
