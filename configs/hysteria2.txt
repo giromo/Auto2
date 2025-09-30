@@ -59,7 +59,8 @@ hysteria2://Jjwvt9WrTp@91.107.150.208:443?sni=hacks.mozilla.org&insecure=1&obfs=
 hysteria2://KevinZakarian@kevin.serverv.net:8443?insecure=1&obfs=salamander#XX
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?sni=bing.com&insecure=1#HK
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=0&obfs=salamander#NL
+hysteria2://Telegram--%3E@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#Telegram%20%3A%20@FarshidHUBلطفا
+hysteria2://Telegram--%3E@Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#@IRAN_V2RAY1
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#WI-FI--@IRAN_V2RAY1
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#🇳🇱@FreakConfig
@@ -101,7 +102,6 @@ hysteria2://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@03e37e-330-co.9966661.xyz:3000/
 hysteria2://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@03e37e-330-co.9966661.xyz:3000?sni=03e37e-330-co.9966661.xyz&insecure=0#US
 hysteria2://b96e7c07-78eb-40a1-89ad-de3d33dac98b@2001:470:1f15:728:6a5a:ce2:7583:1:10015?insecure=1#US
 hysteria2://be81e21d-02d8-4a60-a07e-c2202a50a549@yjjdhl.yunjijd.xyz:26923?sni=yjjdhl.yunjijd.xyz&insecure=1#NL
-hysteria2://biadailyconfigs%3AOfCVj6CrPsNZm6kYaUFvFCZ2WOP2Jf7u@103.249.133.79:443?security=tls&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS&insecure=1&sni=microsoft.com#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 hysteria2://biadailyconfigs:OfCVj6CrPsNZm6kYaUFvFCZ2WOP2Jf7u@103.249.133.79:443?security=tls&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS&insecure=1&sni=microsoft.com#@Daily_Configs
 hysteria2://biadailyconfigs:OfCVj6CrPsNZm6kYaUFvFCZ2WOP2Jf7u@103.249.133.79:443?security=tls&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS&insecure=1&sni=microsoft.com#@V2rayNGVPN
 hysteria2://biadailyconfigs@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
@@ -153,13 +153,11 @@ hysteria2://joindailyconfigschanel@103.249.133.79:443?insecure=1&sni=microsoft.c
 hysteria2://lHoYmNZmLe@84.32.34.81:28777?obfs=salamander&obfs-password=wcancmaocnewrivbkacmlmsvwuvdfsv&insecure=1#@Rayan_Config%203
 hysteria2://lHoYmNZmLe@84.32.34.81:53713?obfs=salamander&obfs-password=uvahwuicbhwabhvlhv&insecure=1#@Rayan_Config%2012
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:28777?insecure=1&obfs=salamander&obfs-password=wcancmaocnewrivbkacmlmsvwuvdfsv#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig%20%231
-hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:28777?security=tls&obfs=salamander&obfs-password=wcancmaocnewrivbkacmlmsvwuvdfsv&insecure=1#%40meli_proxyy
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:28777?security=tls&obfs=salamander&obfs-password=wcancmaocnewrivbkacmlmsvwuvdfsv&insecure=1#%40proxy_kafee
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:28777?security=tls&obfs=salamander&obfs-password=wcancmaocnewrivbkacmlmsvwuvdfsv&insecure=1#%E2%9D%87%EF%B8%8F%F0%9F%8C%90%E2%9C%858
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:28777?security=tls&obfs=salamander&obfs-password=wcancmaocnewrivbkacmlmsvwuvdfsv&insecure=1#🇺🇲@FreakConfig
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:53713?insecure=1&obfs=salamander#US
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:53713?insecure=1&obfs=salamander&obfs-password=uvahwuicbhwabhvlhv#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig%20%232
-hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:53713?security=tls&obfs=salamander&obfs-password=uvahwuicbhwabhvlhv&insecure=1#%40meli_proxyy
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:53713?security=tls&obfs=salamander&obfs-password=uvahwuicbhwabhvlhv&insecure=1#%40proxy_kafee
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:53713?security=tls&obfs=salamander&obfs-password=uvahwuicbhwabhvlhv&insecure=1#🇺🇲@FreakConfig
 hysteria2://mahsaamini:t7BcRDX9RNcqZXvBhJcMlBsa435nD0Pt@95.181.174.31:443?sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP&insecure=1#@Daily_Configs
