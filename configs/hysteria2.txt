@@ -7,6 +7,7 @@ hy2://siEk2SjZFG@91.205.158.2:2083/?insecure=1&sni=ghasem.kotlet.org&obfs=salama
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?sni=pichondan.com&insecure=0&obfs=salamander#DE
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:43649/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+hysteria2://09fceaf1-5813-4745-b8ad-725fc5a8c426@46.203.248.72:50443?insecure=1#TR
 hysteria2://0a93714f-7944-4cb1-a955-c602db605e85@teq.dport.top:33658?sni=teq.dport.top&insecure=1&obfs=salamander#TR
 hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563?sni=h2.gzcloud.shop&insecure=1&obfs=salamander#HK
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:43649/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
@@ -15,7 +16,6 @@ hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:43649/?sni=real
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%237
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@us.10101251.xyz:3002?insecure=0&sni=us.10101251.xyz#2%7C%F0%9F%87%BA%F0%9F%87%B869%20%7C%20%204.3MB/s%7C100%25%7CNetflix%7CO...
-hysteria2://1a8588b6-9700-4ff6-80e6-64e18f2e5336@de1.jueduibupao.top:43836?insecure=1&sni=de1.jueduibupao.top#%40sunflowerplato%F0%9F%8C%BB
 hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net:8443?sni=2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8122%20%7C%20%201.4MB/s
 hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@172.252.236.213:43649/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -56,7 +56,6 @@ hysteria2://4e231218-04c8-44ce-b72d-5c1bbcfc3a94@de2.oomz.ru:30000?security=tls&
 hysteria2://4e231218-04c8-44ce-b72d-5c1bbcfc3a94@nl1.oomz.ru:30000?insecure=1&sni=bing.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 hysteria2://4e231218-04c8-44ce-b72d-5c1bbcfc3a94@nl1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#%F0%9F%AA%A213%40oneclickvpnkeys
 hysteria2://4e231218-04c8-44ce-b72d-5c1bbcfc3a94@nl1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#🇳🇱@FreakConfig
-hysteria2://4e231218-04c8-44ce-b72d-5c1bbcfc3a94@nl1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#🔥Join+Telegram:@Farah_VPN🟣
 hysteria2://4e9a5998-5d8a-4b1e-98b2-b05e6c5564f0@212.192.15.244:31008?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2007
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:43649/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -131,7 +130,6 @@ hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@172.252.236.213:43649/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#11%7C%40Selinc
-hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#%40sunflowerplato%F0%9F%8C%BB%20%231
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?sni=net2025.afsharidempire.uk&insecure=1&obfs=salamander#NL
 hysteria2://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@00fd98-20-2.9966661.xyz:3000?sni=00fd98-20.9966661.xyz#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2005
 hysteria2://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@03e37e-330-co-3.9966661.xyz:3000?sni=03e37e-330-co.9966661.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2014
@@ -167,11 +165,11 @@ hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.soft10.ir:443?insecure=
 hysteria2://KevinZakarian@kevin.serverv.net:8443?insecure=1&obfs=salamander#XX
 hysteria2://NauyynT4jo@p4.3dfigures.ir:56116?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal3#11%7C%40V2ray1_Ng%20ALL
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?sni=bing.com&insecure=1#HK
+hysteria2://Telegram--%3E%40Ln2Ray@2a14:3f87:f001:9::a:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%232
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%233
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%E2%8F%B042%40ConfigV2RayNG
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%8D%814%40oneclickvpnkeys
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=0&obfs=salamander#NL
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#@Daily_Configs
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#@IRAN_V2RAY1
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#WI-FI--@IRAN_V2RAY1
@@ -245,7 +243,6 @@ hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?security=
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?sni=fus01.mistea.top&insecure=1#US
 hysteria2://c2b58ae0-d21c-11ef-b414-f23c91cfbbc9@638bb563-sw3ts0-swwcfg-1eijl.hy2.gotochinatown.net:8443?sni=638bb563-sw3ts0-swwcfg-1eijl.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8119%20%7C%20%201.2MB/s
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-kz.mxtn.net:443?insecure=1#%40sunflowerplato%F0%9F%8C%BB
-hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-kz.mxtn.net:443?insecure=1#%40sunflowerplato%F0%9F%8C%BB%20%232
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-kz.mxtn.net:443?insecure=1&mport=21001-21099#@Daily_Configs
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-kz.mxtn.net:443?security=tls&insecure=1&mport=21001-21099#@sunflowerplato🌻
 hysteria2://c6bccea3-2f03-4f3e-80f4-d6757f1f3f46@192.3.60.176:41951?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig%20%231
