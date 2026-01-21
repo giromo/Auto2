@@ -91,7 +91,6 @@ hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk
 hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com:443?security=tls&insecure=0&sni=72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com#telegram
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=🔒
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#%40V2rayNG3
-hysteria2://dongtaiwang.com@89.144.35.25:33550?insecure=1&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8D%B7%E5%85%B0%2001
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1#14🔵@ConfigV2RayNG
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=%F0%9F%94%92#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#🔱
@@ -103,7 +102,6 @@ hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@146.56.164.36:443?insecure=1&sn
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@146.56.164.36:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-%40V2rayAlpha--1
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@146.56.164.36:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-@V2rayAlpha--1
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?insecure=1&sni=api.push.apple.com#All-%40V2rayAlpha--2
-hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-%40V2rayAlpha
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-%40V2rayAlpha--2ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#All-%40V2rayAlpha--3
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-@V2rayAlpha--2
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&insecure=1&mport=35000-39000&sni=www.apple.com#KV%204%20%28%40Outline_Vpn%29%20free
