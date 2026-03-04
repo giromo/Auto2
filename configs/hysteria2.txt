@@ -381,8 +381,6 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All_7--@V2rayAlpha
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#DE
-hysteria2://a26d9eef-4a6c-4881-921d-6ef2b57cc508@hk02.poke-mon.xyz:20000?insecure=1&sni=bing.com#🌐سرور
-hysteria2://a26d9eef-4a6c-4881-921d-6ef2b57cc508@hk02.poke-mon.xyz:20000?insecure=1&sni=www.bing.com#🌐سرور
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK
 hysteria2://a787462d-1184-460d-86af-b87ecc919383@jp.sanmaojichang.com:21009?insecure=1&sni=jp.sanmaojichang.com#JP101%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://a787462d-1184-460d-86af-b87ecc919383@jp.sanmaojichang.com:21011?insecure=1&sni=jp.sanmaojichang.com#JP150%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
