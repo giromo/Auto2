@@ -98,12 +98,15 @@ hysteria2://ddd7262a-5e2e-49f9-b757-8d9203517d8a@sg.xn--ehqa22b.site:21698?sni=s
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=🔒
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#%40V2rayNG3
 hysteria2://dongtaiwang.com@89.144.35.34:43608?insecure=1&sni=apple.com#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2012
+hysteria2://dongtaiwang.com@89.144.35.34:43608?insecure=1&sni=apple.com#🌐سرور
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 hysteria2://f81b6c87-113f-4346-9836-631f49b4aaf3@de.xn--ehqa22b.site:21058?sni=de.xn--ehqa22b.site#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2002
 hysteria2://f81b6c87-113f-4346-9836-631f49b4aaf3@de.xn--ehqa22b.site:21440?sni=de.xn--ehqa22b.site#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2004
 hysteria2://f81b6c87-113f-4346-9836-631f49b4aaf3@jp.xn--ehqa22b.site:21004?sni=jp.xn--ehqa22b.site#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2001
 hysteria2://ilikecs123!@66.154.127.121:443/?insecure=1&sni=cloudcone.wolfmoss.top#8⚛️@oneclickvpnkeys
+hysteria2://ilikecs123%21@66.154.127.121:443/?insecure=1&sni=cloudcone.wolfmoss.top#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://ilikecs123%21@66.154.127.121:443/?insecure=1&sni=cloudcone.wolfmoss.top#8%E2%9A%9B%EF%B8%8F@oneclickvpnkeys
+hysteria2://ilikecs123%21@66.154.127.121:443?insecure=1&sni=cloudcone.wolfmoss.top#8%E2%9A%9B%EF%B8%8F%40oneclickvpnkeys
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:443?insecure=1&sni=www.bing.com#%40V2rayNG3%20%234
