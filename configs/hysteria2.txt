@@ -104,8 +104,6 @@ hysteria2://f6ac9393-ba3e-4d3d-bdde-ba4b351715af@ch.xn--ehqa22b.site:21419?sni=c
 hysteria2://f6ac9393-ba3e-4d3d-bdde-ba4b351715af@my.xn--ehqa22b.site:21902?sni=my.xn--ehqa22b.site#%F0%9F%87%B2%F0%9F%87%BE%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A9%AC%E6%9D%A5%2001
 hysteria2://f6ac9393-ba3e-4d3d-bdde-ba4b351715af@tr.xn--ehqa22b.site:21379?sni=tr.xn--ehqa22b.site#%F0%9F%87%B9%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%9C%9F%E8%80%B3%E5%85%B6%2003
 hysteria2://f6ac9393-ba3e-4d3d-bdde-ba4b351715af@us.xn--ehqa22b.site:21736?sni=us.xn--ehqa22b.site#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2007
-hysteria2://ilikecs123!@66.154.127.121:443/?insecure=1&sni=cloudcone.wolfmoss.top#8⚛️@oneclickvpnkeys
 hysteria2://ilikecs123%21@66.154.127.121:443/?insecure=1&sni=cloudcone.wolfmoss.top#8%E2%9A%9B%EF%B8%8F@oneclickvpnkeys
-hysteria2://ilikecs123%21@66.154.127.121:443?insecure=1&sni=cloudcone.wolfmoss.top#8%E2%9A%9B%EF%B8%8F%40oneclickvpnkeys
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:443?insecure=1&sni=www.bing.com#%40V2rayNG3%20%234
