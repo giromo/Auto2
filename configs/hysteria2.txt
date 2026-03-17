@@ -24,6 +24,8 @@ hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@de.xn--ehqa22b.site:21927?insec
 hysteria2://5046SHWqk6@91.132.51.160:844?#%40Trick_mobil%20%231
 hysteria2://5046SHWqk6@91.132.51.160:844?insecure=1&sni=www.refersion.com#hy
 hysteria2://6d31e562-2107-4531-bec5-5ed5b4af118c@143.47.56.230:35000?insecure=1&sni=www.lamer.com.hk&mport=35000-39000#%F0%9F%87%AA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%A5%BF%E7%8F%AD%E7%89%99%2001
+hysteria2://6fc421a8-cd84-432c-86b8-b1bbe488733b@us02zl.poke-mon.xyz:20000/?insecure=1&sni=bing.com&mport=20000-50000#Telegram:@config_proxy
+hysteria2://6fc421a8-cd84-432c-86b8-b1bbe488733b@us02zl.poke-mon.xyz:20000?insecure=1&sni=bing.com#Telegram%3A%40config_proxy%20%F0%9F%98%8D
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#%F0%9F%A9%B5%2B%40Azarakhsh_Proxy%2B%F0%9F%A9%B7
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🩵+@Azarakhsh_Proxy+🩷
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=🔒#%40Trick_mobil%20%233
@@ -82,8 +84,6 @@ hysteria2://da231013-aef8-4c83-abfd-8d844545fe3a@152.70.176.68:1/?insecure=1&sni
 hysteria2://da231013-aef8-4c83-abfd-8d844545fe3a@152.70.176.68:1/?insecure=1&sni=www.bing.com#🚜2@oneclickvpnkeys
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=🔒
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#%40V2rayNG3
-hysteria2://fe0fda62-79ff-467e-bef4-983322c1d21b@hkt.ccwink.cc:56309?insecure=1&sni=hkt.ccwink.cc#Telegram%3A%40config_proxy%20%F0%9F%98%8D
-hysteria2://fe0fda62-79ff-467e-bef4-983322c1d21b@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc&insecure=1#Telegram:@config_proxy
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:443?insecure=1&sni=www.bing.com#%40V2rayNG3%20%234
 hysteria2://pro%40_LlpRWwEh4tRl4cSzc0TZDxM@starlink-sg2.mfa.cat:443?insecure=1&sni=www.cloudflare.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2051
