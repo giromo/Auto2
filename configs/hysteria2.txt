@@ -22,6 +22,7 @@ hysteria2://ea800f9e-ca6c-11ef-8e74-f23c913c8d2b@6b62b419-t6t0g0-tfjz9x-1t5n1.hk
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%A6%9493@oneclickvpnkeys
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#🦔93@oneclickvpnkeys
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com%23%F0%9F%A6%9493@oneclickvpnkeys#🌐سرور
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1#130.61.50.75%3A6443
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%A6%9493%40oneclickvpnkeys
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#10%7C%F0%9F%A6%9493%40oneclickvpnkeys
