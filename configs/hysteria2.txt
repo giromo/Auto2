@@ -33,7 +33,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls
 hysteria2://df8d55f9-fb51-442d-902a-bf8160dc051b@brb.nnpy.org:11100?insecure=1&sni=www.bing.com#%F0%9F%87%A7%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%B7%B4%E8%A5%BF%2001
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=🔒
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::17]:20088/?insecure=1&sni=apple.com#%F0%9F%90%B551@oneclickvpnkeys
-hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::17]:443?insecure=1&sni=apple.com#%F0%9F%90%B551%40oneclickvpnkeys
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-022.fastervpn.world:443?insecure=1&sni=vpn-us-022.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2001
 hysteria2://strong-secret-pass-777@2.56.172.83:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#%F0%9F%AA%BA82@oneclickvpnkeys
@@ -43,7 +42,9 @@ hysteria2://strong-secret-pass-777@45.120.179.89:444/?insecure=1&obfs=salamander
 hysteria2://strong-secret-pass-777@45.120.179.89:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#🪺28@oneclickvpnkeys
 hysteria2://strong-secret-pass-777@45.120.179.89:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#%F0%9F%AA%BA28%40oneclickvpnkeys
 hysteria2://strong-secret-pass-777@45.15.171.80:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#🪺92@oneclickvpnkeys
+hysteria2://strong-secret-pass-777@45.15.171.80:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#%F0%9F%AA%BA92%40oneclickvpnkeys
 hysteria2://strong-secret-pass-777@82.117.255.37:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#🪺97@oneclickvpnkeys
+hysteria2://strong-secret-pass-777@82.117.255.37:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#%F0%9F%AA%BA97%40oneclickvpnkeys
 hysteria2://strong-secret-pass-777@94.131.105.125:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#%F0%9F%AA%BA18@oneclickvpnkeys
 hysteria2://strong-secret-pass-777@94.131.105.125:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#🪺18@oneclickvpnkeys
 hysteria2://strong-secret-pass-777@94.131.105.125:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#%F0%9F%AA%BA18%40oneclickvpnkeys
