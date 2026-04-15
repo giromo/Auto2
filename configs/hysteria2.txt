@@ -34,4 +34,8 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls
 hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2001
 hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#🌐سرور
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=🔒
+hysteria2://github.com/Alvin9999-newpac/fanqiang@83.243.86.103:12855/?insecure=1&sni=www.microsoft.com#🌻32@oneclickvpnkeys
+hysteria2://github.com/Alvin9999-newpac/fanqiang@83.243.86.103:12855?security=tls&insecure=1&sni=www.microsoft.com#telegram:
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#🌻31@oneclickvpnkeys
+hysteria2://zhangyang@130.61.50.75:6443?security=tls&insecure=1&sni=dash.cloudflare.com#telegram:
