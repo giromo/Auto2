@@ -15,7 +15,6 @@ hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:5555?insecure=1#%
 hysteria2://372f3c21-ca44-4982-a830-d0b81e08a7c8@sg1.shiyuandian.shop:2056?insecure=1&sni=sg1.shiyuandian.shop#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2015
 hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?obfs=salamander&obfs-password=CF7WJGiw6r1c8imX&sni=hy2-jp.onetaplink.app#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2007
 hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?obfs=salamander&obfs-password=CF7WJGiw6r1c8imX&sni=hy2-jp.onetaplink.app#🌐سرور
-hysteria2://Fo1vGsM7Wl@185.206.231.151:443?security=tls&insecure=1&obfs=salamander&obfs-password=p277(8h6&fastopen=0#firstTime
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%40V2rayNG3
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All_7--%40V2rayAlpha
 hysteria2://aa61a314-2d82-4509-b9fa-eb93a921b6ab@6bkr1.6bnw.top:10100?insecure=1&sni=6bkr1.6bnw.top#%F0%9F%87%B0%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%9F%A9%E5%9B%BD%2004
