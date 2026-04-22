@@ -11,6 +11,8 @@ hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=🔒
 hy2://hrxvl5n08w@54.169.235.155:23943/?insecure=1#%E2%99%9297%40oneclickvpnkeys
 hy2://hrxvl5n08w@54.169.235.155:23943/?insecure=1#♒97@oneclickvpnkeys
 hy2://zhangyang@130.61.50.75:6443/
+hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#✅@AR14N24b
+hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#🌐سرور
 hysteria2://6987a475-97a5-40ce-90fe-a59a21aa1c08@hjnd.0101.pw:8444?insecure=1&sni=hjnd.0101.pw#%F0%9F%87%A8%F0%9F%87%A6%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001
 hysteria2://V9TUQQMN40@23.27.240.33:23161?insecure=1#%E2%99%9291%40oneclickvpnkeys
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%40V2rayNG3
