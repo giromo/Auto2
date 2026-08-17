@@ -3,3 +3,6 @@ cURL Error for shadowsocksr: The requested URL returned error: 429
 cURL Error for tuic: The requested URL returned error: 429
 cURL Error for vmess: The requested URL returned error: 429
 cURL Error for trojan: Recv failure: Connection reset by peer
+cURL Error for vmess: The requested URL returned error: 502
+cURL Error for tuic: The requested URL returned error: 429
+cURL Error for wireguard: The requested URL returned error: 429
